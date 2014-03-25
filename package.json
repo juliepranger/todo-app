@@ -1,0 +1,10 @@
+{
+  "name": "my-todo-app",
+  "version": "0.0.0",
+  "description": "todo app",
+  "main": "server.js",
+  "devDependencies": {
+      "express": "~3.4.4",
+      "mongoose": "~3.6.2"
+  }
+}
